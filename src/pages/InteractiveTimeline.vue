@@ -62,7 +62,7 @@ import neonImg from '@/assets/light-history/neon.png'
 import fluorescentImg from '@/assets/light-history/fluorescent.png'
 import halogenImg from '@/assets/light-history/halogen.png'
 import ledImg from '@/assets/light-history/led.png'
-import smartlightImg from '@/assets/light-history/smartlight.png'
+import smartlightImg from '@/assets/light-history/smartlight.jpg'
 
 type EventItem = {
   id: string
