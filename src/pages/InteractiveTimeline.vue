@@ -53,15 +53,15 @@
 import { ref, computed, onMounted, onBeforeUnmount, watch, nextTick } from 'vue'
 
 // Import local images
-import fireImg from '@/assets/light-history/fire.jpg'
-import oilLampImg from '@/assets/light-history/oil-lamp.jpg'
-import candleImg from '@/assets/light-history/candle.jpg'
-import gaslightImg from '@/assets/light-history/gaslight.jpg'
-import bulbImg from '@/assets/light-history/bulb.jpg'
-import neonImg from '@/assets/light-history/neon.jpg'
-import fluorescentImg from '@/assets/light-history/fluorescent.jpg'
-import halogenImg from '@/assets/light-history/halogen.jpg'
-import ledImg from '@/assets/light-history/led.jpg'
+import fireImg from '@/assets/light-history/fire.png'
+import oilLampImg from '@/assets/light-history/oil-lamp.png'
+import candleImg from '@/assets/light-history/candle.png'
+import gaslightImg from '@/assets/light-history/gaslight.png'
+import bulbImg from '@/assets/light-history/bulb.png'
+import neonImg from '@/assets/light-history/neon.png'
+import fluorescentImg from '@/assets/light-history/fluorescent.png'
+import halogenImg from '@/assets/light-history/halogen.png'
+import ledImg from '@/assets/light-history/led.png'
 import smartlightImg from '@/assets/light-history/smartlight.jpg'
 
 type EventItem = {
